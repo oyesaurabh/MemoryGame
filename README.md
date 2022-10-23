@@ -1,2 +1,3 @@
 # MemoryGame
-[https://oyesaurabh.github.io/MemoryGame/](https://oyesaurabh.github.io/MemoryGame/)
+[Link](https://oyesaurabh.github.io/MemoryGame/)
+Remember the pattern
